@@ -1,0 +1,15 @@
+{
+  "name": "nos-express-session-simple",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nos-nart/nos-express-session-simple.git",
+  "author": "nam hoang <nam.hoang@ntq-solution.com.vn>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.17.1"
+  }
+}
